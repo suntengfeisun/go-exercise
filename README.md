@@ -4,6 +4,7 @@ Go程序设计语言练习
 
 4.3 重写函数reverse，使用数组指正作为参数而不是slice。
 
+
 4.3 Rewrite reverse to use an array pointer instead of a slice.
 
 4.4 编写一个函数rotate，实现一次遍历就可以完成元素旋转。

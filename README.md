@@ -3,10 +3,12 @@ Go程序设计语言练习
 <br>
 
 4.3 重写函数reverse，使用数组指针作为参数而不是slice。<br>
-4.3 Rewrite reverse to use an array pointer instead of a slice.
+4.3 Rewrite reverse to use an array pointer instead of a slice.<br>
+4.3 Example: [1,2,3] to [3,2,1]
 
 4.4 编写一个函数rotate，实现一次遍历就可以完成元素旋转。<br>
-4.4 Write a version of rotate that operates in a single pass.
+4.4 Write a version of rotate that operates in a single pass.<br>
+4.4 Example: [1,2,3,4,5] to [3,4,5,1,2]
 
 4.5 Write an in-place function to eliminate adjacent duplicates in a []string slice.
 

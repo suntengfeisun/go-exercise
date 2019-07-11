@@ -18,6 +18,10 @@ Go程序设计语言练习
 1.4 修改dup2程序，输出出现重复行的文件的名称。<br>
 1.4 Modify dup2 to print the names of all files in which each duplicated line occurs.<br>
 
+2.1 [完成](exercise-2.1/main.go)<br>
+2.1 添加类型、常量和函数到tempconv包中，处理以开尔文为单位（K）的温度值，0K＝－273.5°C，变化1K和变化1°C是等价的。<br>
+2.1 Add types, constants, and functions to tempconv for pro cessing temperatures in the Kelvin scale, where zero Kelvin is −273.15°C and a difference of 1K has the same magnitude as 1°C.<br>
+
 4.3 [完成](exercise-4.3/main.go)<br>
 4.3 重写函数reverse，使用数组指针作为参数而不是slice。<br>
 4.3 Rewrite reverse to use an array pointer instead of a slice.<br>

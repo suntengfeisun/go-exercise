@@ -56,6 +56,8 @@ Rewrite PopCount to use a loop instead of a single expression. Compare the perfo
 2.5 [未完成](exercise-2.5/main.go)<br>
 
 3.1 [未完成](exercise-3.1/main.go)<br>
+假如函数f返回一个float64型的无穷大值，就会导致SVG文件含有无效的<polygon>元素（尽管很多SVG绘图程序对此处理得当）。修改本程序以避免无效的多边形。
+If the function f returns a non-finite float64 value, the SVG file will contain invalid <polygon> elements (although many SVG renderers handle this gracefully). Modify the program to skip invalid polygons.
 
 3.2 [未完成](exercise-3.2/main.go)<br>
 
@@ -74,8 +76,11 @@ Rewrite PopCount to use a loop instead of a single expression. Compare the perfo
 3.9 [未完成](exercise-3.9/main.go)<br>
 
 3.10 [未完成](exercise-3.10/main.go)<br>
+编写一个非递归的comma函数，运用bytes.Buffer，而不是简单的字符串拼接。
+Write a non-recursive version of comma, using bytes.Buffer instead of string concatenation.
 
 3.11 [未完成](exercise-3.11/main.go)<br>
+
 
 3.12 [未完成](exercise-3.12/main.go)<br>
 

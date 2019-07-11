@@ -6,9 +6,17 @@ Go程序设计语言练习
 1.1 修改echo程序输出os.Args[0]，即命令的名字。<br>
 1.1 Modify the echo program to also print os.Args[0], the name of the command that invoked it.<br>
 
-1.2 [未完成](exercise-1.2.go)<br>
+1.2 [完成](exercise-1.2.go)<br>
 1.2 修改echo程序，输出参数的索引和值，每行一个。<br>
 1.2 Modify the echo program to print the index and value of each of its arguments, one per line.<br>
+
+1.3 [未完成](exercise-1.3.go)<br>
+1.3 尝试测量可能低效的程序和使用strings.Join的程序在执行时间上的差异。（1.6节有time包，11.4节展示如何撰写系统性的性能测试评估测试）<br>
+1.3 Experiment to measure the difference in running time between our potentially inefficient versions and the one that uses strings.Join. (Section 1.6 illustrates part of the time package, and Section 11.4 shows how to write benchmark tests for systematic performance evaluation.)<br>
+
+1.4 [未完成](exercise-1.4.go)<br>
+1.4 修改dup2程序，输出出现重复行的文件的名称。<br>
+1.4 Modify dup2 to print the names of all files in which each duplicated line occurs.<br>
 
 4.3 [完成](exercise-4.3.go)<br>
 4.3 重写函数reverse，使用数组指针作为参数而不是slice。<br>

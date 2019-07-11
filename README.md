@@ -18,6 +18,22 @@ Experiment to measure the difference in running time between our potentially ine
 修改dup2程序，输出出现重复行的文件的名称。<br>
 Modify dup2 to print the names of all files in which each duplicated line occurs.<br>
 
+1.5 [未完成](exercise-1.5/main.go)<br>
+
+1.6 [未完成](exercise-1.6/main.go)<br>
+
+1.7 [未完成](exercise-1.7/main.go)<br>
+
+1.8 [未完成](exercise-1.8/main.go)<br>
+
+1.9 [未完成](exercise-1.9/main.go)<br>
+
+1.10 [未完成](exercise-1.10/main.go)<br>
+
+1.11 [未完成](exercise-1.11/main.go)<br>
+
+1.12 [未完成](exercise-1.12/main.go)<br>
+
 2.1 [完成](exercise-2.1/main.go)<br>
 添加类型、常量和函数到tempconv包中，处理以开尔文为单位（K）的温度值，0K＝－273.5°C，变化1K和变化1°C是等价的。<br>
 Add types, constants, and functions to tempconv for pro cessing temperatures in the Kelvin scale, where zero Kelvin is −273.15°C and a difference of 1K has the same magnitude as 1°C.<br>
@@ -30,6 +46,38 @@ Add types, constants, and functions to tempconv for pro cessing temperatures in 
 写一个类似于cf的通用的单位转换程序，从命令行参数或者标准输入（如果没有参数）获取数字，然后将每一个数字转换为以摄氏温度和华氏温度表示的温度，以英寸和米表示的长度单位，以磅和千克表示的重量，等等。<br>
 Write a general-purpose unit-conversion program analogous to cf that reads
 numbers from its command-line arguments or from the standard input if there are no arguments, and converts each number into units like temperature in Celsius and Fahren heit, length in feet and meters, weight in pounds and kilograms, and the like.<br>
+
+2.3 [未完成](exercise-2.3/main.go)<br>
+使用循环重写PopCount，来替代单个表达式。对比两个版本的效率（11.4节会展示如何系统性的对比不同实现的性能。）<br>
+Rewrite PopCount to use a loop instead of a single expression. Compare the performance of the two versions. (Section 11.4 shows how to compare the performance of different implementations systematically.)<br>
+
+2.4 [未完成](exercise-2.4/main.go)<br>
+
+2.5 [未完成](exercise-2.5/main.go)<br>
+
+3.1 [未完成](exercise-3.1/main.go)<br>
+
+3.2 [未完成](exercise-3.2/main.go)<br>
+
+3.3 [未完成](exercise-3.3/main.go)<br>
+
+3.4 [未完成](exercise-3.4/main.go)<br>
+
+3.5 [未完成](exercise-3.5/main.go)<br>
+
+3.6 [未完成](exercise-3.6/main.go)<br>
+
+3.7 [未完成](exercise-3.7/main.go)<br>
+
+3.8 [未完成](exercise-3.8/main.go)<br>
+
+3.9 [未完成](exercise-3.9/main.go)<br>
+
+3.10 [未完成](exercise-3.10/main.go)<br>
+
+3.11 [未完成](exercise-3.11/main.go)<br>
+
+3.12 [未完成](exercise-3.12/main.go)<br>
 
 4.3 [完成](exercise-4.3/main.go)<br>
 重写函数reverse，使用数组指针作为参数而不是slice。<br>

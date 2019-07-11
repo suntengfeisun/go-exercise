@@ -75,12 +75,13 @@ If the function f returns a non-finite float64 value, the SVG file will contain 
 
 3.9 [未完成](exercise-3.9/main.go)<br>
 
-3.10 [未完成](exercise-3.10/main.go)<br>
+3.10 [完成](exercise-3.10/main.go)<br>
 编写一个非递归的comma函数，运用bytes.Buffer，而不是简单的字符串拼接。
 Write a non-recursive version of comma, using bytes.Buffer instead of string concatenation.
 
 3.11 [未完成](exercise-3.11/main.go)<br>
-
+增强comma函数的功能，让其正确处理浮点数，以及带有可选正负号的数字。
+Enhance comma so that it deals correctly with floating-point numbers and an option alsign.
 
 3.12 [未完成](exercise-3.12/main.go)<br>
 

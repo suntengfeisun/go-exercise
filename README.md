@@ -2,7 +2,7 @@
 Go程序设计语言练习
 <br>
 
-1.1[未完成](https://github.com/suntengfeisun/go-exercise/blob/master/exercise-1.1.go)<br>
+1.1[未完成](blob/master/exercise-1.1.go)<br>
 1.1 修改echo程序输出os.Args[0]，即命令的名字。<br>
 1.1Modify the echo program to also print os.Args[0], the name of the command that invoked it.<br>
 

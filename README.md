@@ -84,6 +84,8 @@ Write a non-recursive version of comma, using bytes.Buffer instead of string con
 Enhance comma so that it deals correctly with floating-point numbers and an option alsign.
 
 3.12 [未完成](exercise-3.12/main.go)<br>
+编写一个函数判断两个字符串是否同文异构，也就是，它们都含有相同的字符但是排列顺序不同。
+Write a function that reports whether two strings are anagrams of each other,that is, they contain the same letters in a different order.
 
 4.3 [完成](exercise-4.3/main.go)<br>
 重写函数reverse，使用数组指针作为参数而不是slice。<br>

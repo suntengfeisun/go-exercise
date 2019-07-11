@@ -2,6 +2,10 @@
 Go程序设计语言练习
 <br>
 
+1.1[未完成](https://github.com/suntengfeisun/go-exercise/blob/master/exercise-1.1.go)<br>
+1.1 修改echo程序输出os.Args[0]，即命令的名字。<br>
+1.1Modify the echo program to also print os.Args[0], the name of the command that invoked it.<br>
+
 4.3 [完成](https://github.com/suntengfeisun/go-exercise/blob/master/exercise-4.3.go)<br>
 4.3 重写函数reverse，使用数组指针作为参数而不是slice。<br>
 4.3 Rewrite reverse to use an array pointer instead of a slice.<br>

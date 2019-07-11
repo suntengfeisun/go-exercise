@@ -56,7 +56,7 @@ Rewrite PopCount to use a loop instead of a single expression. Compare the perfo
 2.5 [未完成](exercise-2.5/main.go)<br>
 
 3.1 [未完成](exercise-3.1/main.go)<br>
-假如函数f返回一个float64型的无穷大值，就会导致SVG文件含有无效的<polygon>元素（尽管很多SVG绘图程序对此处理得当）。修改本程序以避免无效的多边形。
+假如函数f返回一个float64型的无穷大值，就会导致SVG文件含有无效的<polygon>元素（尽管很多SVG绘图程序对此处理得当）。修改本程序以避免无效的多边形。<br>
 If the function f returns a non-finite float64 value, the SVG file will contain invalid <polygon> elements (although many SVG renderers handle this gracefully). Modify the program to skip invalid polygons.
 
 3.2 [未完成](exercise-3.2/main.go)<br>
@@ -76,15 +76,15 @@ If the function f returns a non-finite float64 value, the SVG file will contain 
 3.9 [未完成](exercise-3.9/main.go)<br>
 
 3.10 [完成](exercise-3.10/main.go)<br>
-编写一个非递归的comma函数，运用bytes.Buffer，而不是简单的字符串拼接。
+编写一个非递归的comma函数，运用bytes.Buffer，而不是简单的字符串拼接。<br>
 Write a non-recursive version of comma, using bytes.Buffer instead of string concatenation.
 
 3.11 [未完成](exercise-3.11/main.go)<br>
-增强comma函数的功能，让其正确处理浮点数，以及带有可选正负号的数字。
+增强comma函数的功能，让其正确处理浮点数，以及带有可选正负号的数字。<br>
 Enhance comma so that it deals correctly with floating-point numbers and an option alsign.
 
 3.12 [未完成](exercise-3.12/main.go)<br>
-编写一个函数判断两个字符串是否同文异构，也就是，它们都含有相同的字符但是排列顺序不同。
+编写一个函数判断两个字符串是否同文异构，也就是，它们都含有相同的字符但是排列顺序不同。<br>
 Write a function that reports whether two strings are anagrams of each other,that is, they contain the same letters in a different order.
 
 4.3 [完成](exercise-4.3/main.go)<br>

@@ -89,7 +89,15 @@ Write a function that reports whether two strings are anagrams of each other,tha
 
 3.13 [完成](exercise-3.14/main.go)<br>
 用尽可能简介的方法声明从KB、MB直到YB的常量。<br>
-Wr ite const de clarat ions for KB, MB, up through YB as compactly as you can.<br>
+Write const declarations for KB, MB, up through YB as compactly as you can.<br>
+
+4.1 [未完成](exercise-4.1/main.go)<br>
+编写一个函数，用于统计SHA256三列汇总不同的位数（见2.6.2节的PopCount）<br>
+Write a function that counts the number of bits that are different in two SHA256 hashes. (See PopCount from Sec tion 2.6.2.)<br>
+
+4.2 [未完成](exercise-4.2/main.go)<br>
+编写一个程序，用于在默认情况下输出其标准输入的SHA256散列，但也支持一个输出SHA384或SHA512三列的命令行标记。<br>
+Write a program that prints the SHA256 hash of its stand ard inp ut by default but supports a command-line flag to print the SHA384 or SHA512 hash instead.<br>
 
 4.3 [完成](exercise-4.3/main.go)<br>
 重写函数reverse，使用数组指针作为参数而不是slice。<br>
